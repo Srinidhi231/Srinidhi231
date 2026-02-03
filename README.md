@@ -3,6 +3,15 @@
 
 <h1 align="center">Hey 👋 I'm Srinidhi R</h1>
 
+<!-- Avatar Section (Replace URL later) -->
+<p align="center">
+  <img 
+    src="PASTE_YOUR_AVATAR_URL_HERE"
+    alt="Srinidhi R Avatar"
+    width="150"
+  />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Development+Enthusiast;Frontend+%7C+React+Developer;Always+Learning+New+Things;Building+Clean+Web+Experiences&center=true&width=500&height=45"/>
 </p>
