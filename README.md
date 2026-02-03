@@ -6,7 +6,7 @@
 <!-- Avatar Section (Replace URL later) -->
 <p align="center">
   <img 
-    src="C:\Users\SUNDARAM\Downloads\—Pngtree—illustration of professional cartoon style_21139120.png"
+    src="<a href='https://pngtree.com/freepng/illustration-of-professional-cartoon-style-woman_21139120.html'>png image from pngtree.com/</a>"
     alt="Srinidhi R Avatar"
     width="150"
   />
