@@ -6,7 +6,7 @@
 <!-- Avatar Section (Replace URL later) -->
 <p align="center">
   <img 
-    src="[https://iconscout.com/lottie-animations/girl-working-on-desk](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr0t3Bmi7Q4HXf0_5s_j5BI9-0QtODccmDIA&s)"
+    src="C:\Users\SUNDARAM\Downloads\—Pngtree—illustration of professional cartoon style_21139120.png"
     alt="Srinidhi R Avatar"
     width="150"
   />
