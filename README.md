@@ -5,13 +5,11 @@
 
 <!-- Avatar Section (Replace URL later) -->
 <p align="center">
-  <img 
-    src="<a href='https://pngtree.com/freepng/illustration-of-professional-cartoon-style-woman_21139120.html'>png image from pngtree.com/</a>"
-    alt="Srinidhi R Avatar"
-    width="150"
-  />
+  <img src="https://i.pinimg.com/736x/7b/05/51/7b0551406cd7936252123558aacc9191.jpg"
+       alt="Srinidhi R"
+       width="350"
+       style="border-radius:50%;" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Development+Enthusiast;Frontend+%7C+React+Developer;Always+Learning+New+Things;Building+Clean+Web+Experiences&center=true&width=500&height=45"/>
 </p>
@@ -36,6 +34,10 @@ and improving my skills every single day.
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ### 🌐 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
@@ -50,6 +52,18 @@ and improving my skills every single day.
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,supabase"/>
 </p>
+
+</td>
+
+<td width="40%" align="center">
+  <img src="https://i.pinimg.com/736x/a5/ff/0f/a5ff0fac54c23cc4ecc1d7b8b8a8b975.jpg"
+       alt="Tech Illustration"
+       width="750"
+       style="border-radius:20px;" />
+</td>
+</tr>
+</table>
+
 
 ---
 
