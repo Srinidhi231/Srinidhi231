@@ -22,14 +22,11 @@
 
 ## ✨ About Me
 
-💻 I’m a **Web Development Enthusiast** who loves turning ideas into  
-**beautiful, responsive, and interactive web applications**.
+💻 I'm a Computer Science Graduate passionate about Full-Stack Development, Machine Learning, and building practical software solutions.
 
-🚀 I enjoy working with modern tools, learning by building projects,  
-and improving my skills every single day.
+🚀 I enjoy developing scalable applications, exploring AI technologies, and solving real-world problems through technology.
 
-🌱 Currently exploring **full-stack development** and real-world use cases.
-
+🌱 Currently strengthening Data Structures & Algorithms, Full-Stack Development, and AI/ML skills.
 ---
 
 ## 🛠️ Tech Stack
@@ -96,9 +93,10 @@ and improving my skills every single day.
 
 ## 🚀 Current Focus
 
-🎯 Strengthening **React & Frontend Architecture**  
-🎯 Building **scalable web projects**  
-🎯 Learning **backend + database integration**
+Preparing for Software Engineering Roles
+Building Full-Stack Applications
+Strengthening DSA & Problem Solving
+Exploring AI/ML Projects
 
 ---
 
